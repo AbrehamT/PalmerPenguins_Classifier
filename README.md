@@ -20,7 +20,7 @@
 - **Accuracy:** All models achieved high accuracy (over 95%), with SVM reaching 100%. 
 - **Best Model:** Despite the highest accuracy from SVM, the team preferred the neural network due to concerns about potential overfitting in other models.
 - **Confusion Matrices:** The confusion matrices display the average classifications and misclassifications of the four methods over 10 folds.
-![Confusion Matrices] (https://github.com/AbrehamT/PalmerPenguins_Classifier/blob/2f74d7858ba3abede780ef57e006378dd58f5f67/Confusion_Matrices.png)
+![Confusion Matrices](https://github.com/AbrehamT/PalmerPenguins_Classifier/blob/2f74d7858ba3abede780ef57e006378dd58f5f67/Confusion_Matrices.png)
 **Conclusion:**
 - The project successfully integrated theoretical knowledge and practical application, highlighting the real-world challenges and considerations in model selection and data preprocessing. The team expressed interest in further exploring machine learning in future projects and potential careers.
 
